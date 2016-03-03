@@ -1,0 +1,18 @@
+{
+  "name": "co-i18n",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Jiang",
+  "license": "MIT",
+  "dependencies": {
+    "koa-safe-jsonp": "^0.3.1",
+    "lodash": "^4.6.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
