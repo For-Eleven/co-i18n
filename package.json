@@ -7,6 +7,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jeff Jiang",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/For-Eleven/co-i18n.git"
+  },
+  "keywords": [
+    "i18n",
+    "co",
+    "ES6 Template literals"
+  ],
   "license": "MIT",
   "dependencies": {
     "koa-safe-jsonp": "^0.3.1",
